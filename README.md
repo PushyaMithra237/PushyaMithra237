@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @PushyaMithra237
-- "Final year ISE student | Aspiring DevOps Engineer | AWS Certified | Docker • Linux • Kubernetes"
-- 💞️ I’m looking to collaborate on  various projects build projects on my own ...
-- - ⚡ Fun fact: I love to sleep, learn things that interest me and i dream about cloud 
-- 😄 Pronouns: she/her...
+### Hi, I'm Pushya Mithra 👋
+
+🎓 Final year CSE student at East Point College, Bangalore (2026)
+☁️ AWS Cloud Practitioner Certified
+🐳 Docker | Linux | Kubernetes | CI/CD
+💻 MERN Stack Developer | Building real-world projects
+🏆 Top 6/60 at Colossus 2.0 | Top 20/150 at Great Bengaluru Hackathon
+📫 chintalapushyamithra@gmail.com
 
 
 <!---
