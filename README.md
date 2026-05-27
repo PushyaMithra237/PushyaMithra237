@@ -4,7 +4,7 @@
 ☁️ AWS Cloud Practitioner Certified
 🐳 Docker | Linux | Kubernetes | CI/CD
 💻 MERN Stack Developer | Building real-world projects
-🏆 Top 6/60 at Colossus 2.0 | Top 20/150 at Great Bengaluru Hackathon
+🏆 Top 6/20 at Colossus 2.0 | Top 20/150 at Great Bengaluru Hackathon
 📫 chintalapushyamithra@gmail.com
 
 
